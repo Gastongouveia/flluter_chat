@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990821839683",
+    "project_id": "chat-flutter-e0022",
+    "storage_bucket": "chat-flutter-e0022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990821839683:android:04f7d1a6aa17b7da2b35f6",
+        "android_client_info": {
+          "package_name": "br.com.gaston.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990821839683-dsvigtjv4172vkbnsllr0qiu7v1drvnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj58kRo1-T3e1BNn6pFRlrEtjJ7FCTlbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990821839683-dsvigtjv4172vkbnsllr0qiu7v1drvnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
